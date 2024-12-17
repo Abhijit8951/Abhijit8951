@@ -33,7 +33,7 @@ Here are the technologies I work with:
 ---
 
 ### 🌟 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([your-linkedin-url](https://www.linkedin.com/in/abhijit-swain-414556329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![LinkedIn](https://www.linkedin.com/in/abhijit-swain-414556329/)
 
 
 ---
