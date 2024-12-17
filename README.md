@@ -33,7 +33,7 @@ Here are the technologies I work with:
 ---
 
 ### 🌟 Let's Connect!
-[![LinkedIn](https://www.linkedin.com/in/abhijit-swain-414556329/)
+[![LinkedIn]](https://www.linkedin.com/in/abhijit-swain-414556329/)
 
 
 ---
