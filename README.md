@@ -3,11 +3,6 @@
 ## 🚀 About Me
 I'm an **Aspiring Full Stack Developer** with experience in the **MERN Stack** and a passion for building scalable, user-friendly web applications.
 
----
-
-## 📊 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbhijitSwain&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -26,13 +21,13 @@ Here are the technologies I work with:
 
 ### 🛢️ **Databases**
 - MongoDB
+- Mysql
 
 ### 🔧 **Tools & Platforms**
 - Git & GitHub
 - Visual Studio Code
 - npm
 
----
 
 
 ---
@@ -42,6 +37,4 @@ Here are the technologies I work with:
 
 
 ---
-
-⭐ **Fun Fact:** I'm currently learning **System Design** and exploring scalable architectures!
 
