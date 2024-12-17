@@ -7,7 +7,7 @@ I'm an **Aspiring Full Stack Developer** with experience in the **MERN Stack** a
 
 ## 📊 GitHub Streak
 
-(https://github-readme-streak-stats.herokuapp.com?user=AbhijitSwain&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbhijitSwain&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -18,7 +18,7 @@ Here are the technologies I work with:
 - HTML5, CSS3
 - JavaScript (ES6+)
 - React.js
-- Bootstrap / Tailwind CSS
+- Bootstrap
 
 ### 💻 **Backend**
 - Node.js
@@ -30,19 +30,16 @@ Here are the technologies I work with:
 ### 🔧 **Tools & Platforms**
 - Git & GitHub
 - Visual Studio Code
-- npm / Yarn
+- npm
 
 ---
 
-## 📈 GitHub Stats
-
-[![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhijitSwain&show_icons=true&theme=radical&hide_border=true)](https://github.com/AbhijitSwain)
 
 ---
 
 ### 🌟 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](your-twitter-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([your-linkedin-url](https://www.linkedin.com/in/abhijit-swain-414556329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+
 
 ---
 
