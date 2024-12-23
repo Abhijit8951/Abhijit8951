@@ -35,6 +35,9 @@ Here are the technologies I work with:
 ### 🌟 Let's Connect!
 [![LinkedIn]](https://www.linkedin.com/in/abhijit-swain-414556329/)
 
+### 🏆 Problem-Solving
+[![Leetcode]](https://leetcode.com/u/Abhijit119/)
+
 
 ---
 
